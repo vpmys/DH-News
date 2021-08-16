@@ -1,0 +1,21 @@
+@import url('https://fonts.google.com/share?selection.family=Recursive:wght@500://fonts.google.com/share?selection.family=Rubik');
+
+header h1{
+    color: red
+}
+body{
+    font-family: 'Recursive', Arial, Helvetica, sans-serif;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#PrimeiraImagem{
+    text-align: center;
+    mas-width: 100%;
+}
+footer{
+    text-align: center;
+}
+footer img{
+    max-width: 50px; max-height: 50px;
+    margin: 0 auto;
+}
